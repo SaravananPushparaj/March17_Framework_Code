@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="March17batch" duration-ms="13546" started-at="2017-04-23T06:51:57Z" finished-at="2017-04-23T06:52:10Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Scenario_Login.testInvalidlogin(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Login@5cc7c2a6]" name="testInvalidlogin" class="Scenario_Component.Scenario_Login"/>
+        <method signature="Scenario_Search.testInvalidSearch(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Search@1efbd816]" name="testInvalidSearch" class="Scenario_Component.Scenario_Search"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="RegSet1" duration-ms="13546" started-at="2017-04-23T06:51:57Z" finished-at="2017-04-23T06:52:10Z">
+      <class name="Scenario_Component.Scenario_Login">
+        <test-method status="PASS" signature="Report_extent()[pri:0, instance:Scenario_Component.Scenario_Login@5cc7c2a6]" name="Report_extent" is-config="true" duration-ms="266" started-at="2017-04-23T12:21:56Z" finished-at="2017-04-23T12:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report_extent -->
+        <test-method status="PASS" signature="Launchapp()[pri:0, instance:Scenario_Component.Scenario_Login@5cc7c2a6]" name="Launchapp" is-config="true" duration-ms="7653" started-at="2017-04-23T12:21:57Z" finished-at="2017-04-23T12:22:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchapp -->
+        <test-method status="PASS" signature="testInvalidlogin(java.util.Map)[pri:0, instance:Scenario_Component.Scenario_Login@5cc7c2a6]" name="testInvalidlogin" duration-ms="4269" started-at="2017-04-23T12:22:05Z" data-provider="dp_Invalidlogin" finished-at="2017-04-23T12:22:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Execute_Flag=Y, Uname=ggg, TC_ID=GB_01, Script_name=InvalidLogin, Exp_Result=Sorry we were unable to complete this step because :, Pwd=uiu, Order_Set=1.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidlogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Scenario_Component.Scenario_Login@5cc7c2a6]" name="tearDown" is-config="true" duration-ms="843" started-at="2017-04-23T12:22:09Z" finished-at="2017-04-23T12:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Scenario_Component.Scenario_Login -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- March17batch -->
+</testng-results>

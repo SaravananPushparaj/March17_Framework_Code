@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [March17batch]">
+  <test name="RegSet1(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Scenario_Component.Scenario_Login">
+        <methods>
+          <include name="testInvalidlogin"/>
+        </methods>
+      </class> <!-- Scenario_Component.Scenario_Login -->
+      <class name="Scenario_Component.Scenario_Search">
+        <methods>
+          <include name="testInvalidSearch"/>
+        </methods>
+      </class> <!-- Scenario_Component.Scenario_Search -->
+    </classes>
+  </test> <!-- RegSet1(failed) -->
+</suite> <!-- Failed suite [March17batch] -->

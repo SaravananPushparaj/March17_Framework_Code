@@ -1,0 +1,74 @@
+2017-04-22 11:22:51 INFO  Base_Class:23 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 11:22:56 INFO  Base_Class:39 - Failed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because
+2017-04-22 11:23:03 INFO  Base_Class:56 - Executing the Testcase GB_07 Order set is  1.0
+2017-04-22 11:23:07 INFO  Base_Class:69 - Passed as Actual Result is  qtpworld2008 g Expected Result is qtpworld2008
+2017-04-22 11:33:06 INFO  Base_Class:26 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 11:33:10 INFO  Base_Class:42 - Failed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because
+2017-04-22 11:33:17 INFO  Base_Class:63 - Executing the Testcase GB_07 Order set is  1.0
+2017-04-22 11:33:21 INFO  Base_Class:76 - Passed as Actual Result is  qtpworld2008 g Expected Result is qtpworld2008
+2017-04-22 12:07:21 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 12:07:25 INFO  Base_Class:43 - Failed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because
+2017-04-22 12:10:23 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 12:10:27 INFO  Base_Class:43 - Failed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because
+2017-04-22 12:10:34 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  2.0
+2017-04-22 12:10:38 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 12:10:45 INFO  Base_Class:27 - Executing the Testcase GB_02 Order set is  1.0
+2017-04-22 12:10:49 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 12:10:58 INFO  Base_Class:27 - Executing the Testcase GB_03 Order set is  1.0
+2017-04-22 12:11:00 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 12:11:07 INFO  Base_Class:27 - Executing the Testcase GB_04 Order set is  1.0
+2017-04-22 12:11:10 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 12:11:16 INFO  Base_Class:27 - Executing the Testcase GB_05 Order set is  1.0
+2017-04-22 12:11:19 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 12:11:26 INFO  Base_Class:27 - Executing the Testcase GB_06 Order set is  1.0
+2017-04-22 12:11:29 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 12:11:36 INFO  Base_Class:65 - Executing the Testcase GB_07 Order set is  1.0
+2017-04-22 12:11:40 INFO  Base_Class:78 - Passed as Actual Result is  qtpworld2008 g Expected Result is qtpworld2008
+2017-04-22 13:04:05 INFO  Base_Class:25 - Executing the Testcase GB_08Order set is 1.0
+2017-04-22 13:04:06 INFO  Base_Class:34 - Passed as Actual Result is Sorry..'kjjs' does not match any product on Rediff Books. Expected Result is Sorry..'kjjs' does not match any product on Rediff Books.
+2017-04-22 13:06:03 INFO  Base_Class:59 - Executing the Testcase GB_09Order set is 1.0
+2017-04-22 13:06:10 INFO  Base_Class:72 - Failed as Actual Result is 497 Expected Result is 497.0
+2017-04-22 13:15:21 INFO  Base_Class:25 - Executing the Testcase GB_08Order set is 1.0
+2017-04-22 13:15:22 INFO  Base_Class:34 - Passed as Actual Result is Sorry..'kjjs' does not match any product on Rediff Books. Expected Result is Sorry..'kjjs' does not match any product on Rediff Books.
+2017-04-22 13:15:29 INFO  Base_Class:59 - Executing the Testcase GB_09Order set is 1.0
+2017-04-22 13:15:32 INFO  Base_Class:68 - Passed as Actual Result is 497 Expected Result is 497
+2017-04-22 13:15:39 INFO  Base_Class:59 - Executing the Testcase GB_10Order set is 1.0
+2017-04-22 13:15:42 INFO  Base_Class:72 - Failed as Actual Result is 439 Expected Result is 428
+2017-04-22 13:15:50 INFO  Base_Class:59 - Executing the Testcase GB_11Order set is 1.0
+2017-04-22 13:15:52 INFO  Base_Class:68 - Passed as Actual Result is 2 Expected Result is 2
+2017-04-22 13:24:42 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 13:24:47 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:24:58 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  2.0
+2017-04-22 13:25:02 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:25:09 INFO  Base_Class:27 - Executing the Testcase GB_02 Order set is  1.0
+2017-04-22 13:25:13 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:25:19 INFO  Base_Class:27 - Executing the Testcase GB_03 Order set is  1.0
+2017-04-22 13:25:23 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:25:31 INFO  Base_Class:27 - Executing the Testcase GB_04 Order set is  1.0
+2017-04-22 13:25:38 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:25:45 INFO  Base_Class:27 - Executing the Testcase GB_05 Order set is  1.0
+2017-04-22 13:25:51 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:25:57 INFO  Base_Class:27 - Executing the Testcase GB_06 Order set is  1.0
+2017-04-22 13:26:00 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:26:07 INFO  Base_Class:25 - Executing the Testcase GB_08Order set is 1.0
+2017-04-22 13:26:08 INFO  Base_Class:34 - Passed as Actual Result is Sorry..'kjjs' does not match any product on Rediff Books. Expected Result is Sorry..'kjjs' does not match any product on Rediff Books.
+2017-04-22 13:29:39 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 13:29:43 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:29:50 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  2.0
+2017-04-22 13:29:53 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:30:00 INFO  Base_Class:27 - Executing the Testcase GB_02 Order set is  1.0
+2017-04-22 13:30:03 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:30:09 INFO  Base_Class:27 - Executing the Testcase GB_03 Order set is  1.0
+2017-04-22 13:30:13 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:30:19 INFO  Base_Class:27 - Executing the Testcase GB_04 Order set is  1.0
+2017-04-22 13:30:22 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:30:29 INFO  Base_Class:27 - Executing the Testcase GB_05 Order set is  1.0
+2017-04-22 13:30:33 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:30:38 INFO  Base_Class:27 - Executing the Testcase GB_06 Order set is  1.0
+2017-04-22 13:30:41 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 13:30:49 INFO  Base_Class:25 - Executing the Testcase GB_08Order set is 1.0
+2017-04-22 13:30:50 INFO  Base_Class:34 - Passed as Actual Result is Sorry..'kjjs' does not match any product on Rediff Books. Expected Result is Sorry..'kjjs' does not match any product on Rediff Books.
+2017-04-22 18:42:20 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 18:42:24 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
+2017-04-22 18:42:48 INFO  Base_Class:27 - Executing the Testcase GB_01 Order set is  1.0
+2017-04-22 18:42:52 INFO  Base_Class:39 - Passed as Actual Result is  Sorry we were unable to complete this step because : Expected Result is Sorry we were unable to complete this step because :
